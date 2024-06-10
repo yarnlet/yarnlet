@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="hidl_upscaled.png"><br><br>
-  <img src="https://moe-counter.glitch.me/get/@yarnlet"><br>
-  <a href="https://twitter.com/yarnlet"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://youtube.com/@yarnlet"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://reddit.com/u/yarnlet"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a><br><br>
-  <i>"Never was anything great achieved without danger."</i> -Niccolo Machiavelli
+  <img src="https://media.istockphoto.com/id/1346124841/photo/successful-construction-site-worker-thinking.jpg?s=612x612&w=0&k=20&c=nIOAGsr7yd2h-0XNLqY8lFRFsbAqKl411VVQn86G3fI="></img>
+  hard at work making new README
 </div>

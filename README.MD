@@ -1,3 +1,3 @@
 # Summer Projects: test
-<p>Become Proficient in C++: </p><img src="https://progress-bar.dev/0/"><br>
+<p>Become Proficient in C++: <img src="https://progress-bar.dev/0/"></p><br>
 Write my own compiler: 

@@ -1,1 +1,1 @@
-die
+<img src="uncool.jpg">

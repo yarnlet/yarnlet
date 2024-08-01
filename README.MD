@@ -1,2 +1,2 @@
 <img src="uncool.jpg">
-### courvix discord are my biggest fans
+<h2>courvix discord are my biggest fans</h2>
